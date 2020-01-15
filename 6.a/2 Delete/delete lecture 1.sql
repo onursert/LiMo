@@ -1,0 +1,1 @@
+delete from lecture where id = 1;

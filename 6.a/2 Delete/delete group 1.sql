@@ -1,0 +1,1 @@
+delete from user_group where id = 1;
