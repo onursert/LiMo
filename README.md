@@ -4,7 +4,7 @@
 <h2>Physical Model</h2>
 <ul>
   <li>Appropriate SQL scripts for creating the database and its relational model (Create, Alter Table)</li>
-  <li>Population the database with sample tuples using SQL scripts (Insert)</li>
+  <li>Population the database with sample tuples using SQL scripts (Insert) (Used mock data that generated via <a href="https://mockaroo.com/">Mockaroo</a>.)</li>
   <li>3 Triggers for 3 Different tables (Trigger)</li>
   <li>3 Check constraints and 3 Assertions (Check Constraint, Assertion)</li>
   <li>Sample insert, delete and update statements for 3 of the tables (Insert, Delete, Update)</li>
