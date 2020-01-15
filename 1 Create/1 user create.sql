@@ -1,0 +1,21 @@
+create table user (
+	id INT,
+	first_name VARCHAR(50) not null,
+	last_name VARCHAR(50) not null,
+	username VARCHAR(50) not null unique,
+	photo VARCHAR(100),
+	email VARCHAR(50) not null unique,
+	phone VARCHAR(50),
+	password VARCHAR(50) not null,
+	website VARCHAR(1000),
+	headline TEXT,
+	summary TEXT,
+	birthday DATE,
+	gender VARCHAR(50),
+	city VARCHAR(50),
+	country VARCHAR(50),
+	address VARCHAR(50),
+	zipcode VARCHAR(50),
+	nationality VARCHAR(50),
+	primary key (id)
+);

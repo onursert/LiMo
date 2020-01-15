@@ -1,0 +1,15 @@
+insert into lecture_file (id, lecture_id, file, date) values (1, 4, 'venenatis tristique fusce.png', '2019-08-07 02:15:35');
+insert into lecture_file (id, lecture_id, file, date) values (2, 3, 'lacus at.f', '2019-06-17 04:18:55');
+insert into lecture_file (id, lecture_id, file, date) values (3, 5, 'sit amet justo.la', '2019-12-01 02:14:18');
+insert into lecture_file (id, lecture_id, file, date) values (4, 5, 'massa volutpat convallis.skm', '2019-05-14 17:46:43');
+insert into lecture_file (id, lecture_id, file, date) values (5, 2, 'sed sagittis.htc', '2019-05-13 22:54:02');
+insert into lecture_file (id, lecture_id, file, date) values (6, 7, 'vestibulum ante ipsum.mod', '2019-08-16 00:23:47');
+insert into lecture_file (id, lecture_id, file, date) values (7, 4, 'augue.xlv', '2019-09-10 14:31:54');
+insert into lecture_file (id, lecture_id, file, date) values (8, 5, 'adipiscing molestie.mv', '2019-04-27 01:57:12');
+insert into lecture_file (id, lecture_id, file, date) values (9, 7, 'sit.etx', '2019-09-16 15:17:22');
+insert into lecture_file (id, lecture_id, file, date) values (10, 2, 'vestibulum velit id.p7a', '2019-07-26 02:49:23');
+insert into lecture_file (id, lecture_id, file, date) values (11, 7, 'amet sem.hqx', '2019-04-24 14:21:04');
+insert into lecture_file (id, lecture_id, file, date) values (12, 2, 'libero ut.ico', '2019-09-27 16:14:01');
+insert into lecture_file (id, lecture_id, file, date) values (13, 2, 'nisi volutpat.com', '2019-06-17 08:56:06');
+insert into lecture_file (id, lecture_id, file, date) values (14, 4, 'habitasse platea dictumst.ras', '2019-01-14 20:11:51');
+insert into lecture_file (id, lecture_id, file, date) values (15, 5, 'bibendum morbi non.qtc', '2019-08-09 10:33:30');

@@ -1,0 +1,1 @@
+RENAME TABLE user_lecture TO lecture;
