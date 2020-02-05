@@ -16,4 +16,4 @@
   </ul>
   <li>5 Original Select statements (Select (Critical))</li>
 </ul>
-<p>You can read analyzes of <a href="https://onursert.org/blog/linkedin.html">LinkedIn</a> and <a href="https://onursert.org/blog/moodle.html">Moodle</a>.</p>
+<p>You can read analyzes of <a href="https://onursert.org/blog/linkedin">LinkedIn</a> and <a href="https://onursert.org/blog/moodle">Moodle</a>.</p>
